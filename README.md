@@ -1,7 +1,5 @@
 
-[![Build Status](https://dev.azure.com/Tailspin79/Space%20Game%20-%20web/_apis/build/status/dwanless79.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin79/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-79&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-79)
+[![Build Status](https://dev.azure.com/Tailspin79/Space%20Game%20-%20web/_apis/build/status/dwanless79.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin79/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-79&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-79)
 
 # Contributing
 
